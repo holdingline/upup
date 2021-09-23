@@ -5,6 +5,7 @@ namespace progitforbeginners{
         {
         command.writeline("hello");
         command.writeline("using VS");
+        command.writeline("added using command line repo");
         }
         }
         }
